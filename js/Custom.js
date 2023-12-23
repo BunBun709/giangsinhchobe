@@ -194,7 +194,7 @@ $(document).ready(function() {
                     
                     $(".message").typed({
                         strings: [
-                        "<<< Giáng Sinh Vui Vẻ <3 >>>",
+                        " Giáng Sinh Vui Vẻ <3 ",
                         "Chúc bé Bành giáng sinh vui vẻ nha, đi chơi rồi về sớm với anh. Chúc bé giáng an lành, yêu em!!",
                         ],
                         typeSpeed: 250,
